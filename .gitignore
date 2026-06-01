@@ -17,3 +17,6 @@ backup_json/
 backups/
 *.backup.json
 ai-prompt-studio-backup-*.json
+ai-prompt-studio-export-*.md
+prompt-export-*.md
+*.export.md
