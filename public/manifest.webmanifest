@@ -1,0 +1,16 @@
+{
+  "name": "AIプロンプト工房",
+  "short_name": "プロンプト工房",
+  "description": "AIへの依頼文を保存・分類・再利用する自分用アプリ",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7fb",
+  "theme_color": "#e9f1ff",
+  "icons": [
+    { "src": "icons/ai-prompt-studio-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/ai-prompt-studio-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/ai-prompt-studio-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
